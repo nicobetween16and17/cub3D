@@ -1,0 +1,10 @@
+NO ./ruins/Tileable1k.xpm
+     SO     ./ruins/Tileable2k.xpm
+   WE ./ruins/Tileable3k.xpm
+EA      ./ruins/Tileable4k.xpm
+F -256,100,0
+     C         225,30,0
+111
+1N1
+111
+111
